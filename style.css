@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(160, 243, 160);
+}
+.wallpaper {
+  height: 600px;
+}
+.wallpaper .logo img {
+  width: 100px;
+  height: 100px;
+}
+.text-logo {
+  text-shadow: 1px 1px 5px rgba(2, 2, 2, 0.742);
+}
+.logo {
+  width: 100%;
+  height: 100px;
+  position: absolute;
+  top: 30px;
+}
+.wallpaper img {
+  width: 100%;
+  height: 600px;
+}
+
+li .anggota {
+  margin-right: 450px;
+}
+section.about {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.about p {
+  font-weight: 300;
+}
+.location iframe {
+  width: 100%;
+  height: 450px;
+}
+.quotes {
+  margin-top: 150px;
+  margin-bottom: 150px;
+}
+.quotes p {
+  font-weight: 300;
+}
+footer {
+  background-color: black;
+}
+
+.navbar3 {
+  background-color: black;
+}

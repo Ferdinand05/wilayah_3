@@ -1,0 +1,13 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-image: url(./img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+@media (min-width: 720px) {
+  .form {
+    width: 65%;
+  }
+}

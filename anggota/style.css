@@ -1,0 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(160, 243, 160);
+  height: 1000px;
+}
+
+.table-data {
+  margin-top: 150px;
+}
+
+.search {
+  width: 40%;
+}
+.tambah-data {
+  width: 45%;
+}
